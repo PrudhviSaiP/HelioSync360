@@ -198,7 +198,7 @@ https://github.com/user-attachments/assets/9ca694ca-0e59-4f70-ab6a-a6b1d8c19e4a
 We would like to extend my sincere gratitude to the RISC-V support team for their unwavering assistance and for always being available to resolve any technical challenges. Our deepest thanks go to our professor, whose guidance and encouragement have been instrumental throughout this project. We equally grateful to Bhagwan for His divine blessings, and to all my friends and elders whose steadfast support and wisdom have enriched my journey. This collaborative spirit has been fundamental in bringing this project to fruition.
 
 Team : 
-Akhil ,Vardan , Prudvi , Vishnu ,  Kabiraj
+Akhil ,Vardan , Prudhvi Sai , Vishnu ,  Kabiraj
 
 ***
 ## 📜 License  
